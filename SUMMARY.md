@@ -23,4 +23,4 @@
   * [3.访问控制列表-关于安全描述符的补充](windows-yuan-li-shen-ru-xue-xi-xi-lie/3.-fang-wen-kong-zhi-lie-biao-guan-yu-an-quan-miao-shu-fu-de-bu-chong.md)
   * [4.特权](windows-yuan-li-shen-ru-xue-xi-xi-lie/4.-te-quan.md)
   * [5.Windows内核提权](windows-yuan-li-shen-ru-xue-xi-xi-lie/5.windows-nei-he-ti-quan.md)
-  * [6.](windows-yuan-li-shen-ru-xue-xi-xi-lie/6..md)
+  * [6.信任等级检查](windows-yuan-li-shen-ru-xue-xi-xi-lie/6.-xin-ren-deng-ji-jian-cha.md)
