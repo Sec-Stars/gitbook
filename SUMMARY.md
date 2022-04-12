@@ -24,3 +24,4 @@
   * [4.特权](windows-yuan-li-shen-ru-xue-xi-xi-lie/4.-te-quan.md)
   * [5.Windows内核提权](windows-yuan-li-shen-ru-xue-xi-xi-lie/5.windows-nei-he-ti-quan.md)
   * [6.信任等级检查](windows-yuan-li-shen-ru-xue-xi-xi-lie/6.-xin-ren-deng-ji-jian-cha.md)
+  * [7.强制完整性检查](windows-yuan-li-shen-ru-xue-xi-xi-lie/7.-qiang-zhi-wan-zheng-xing-jian-cha.md)
